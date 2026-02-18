@@ -12,7 +12,7 @@ const Experience = () => {
   const experiences = [
     {
       company: "EXEDRA HRTech Company",
-      role: "Frontend Stajyer",
+      role: "Full Stack - Stajyer",
       period: "Haziran 2025 - Ağustos 2025",
       desc: "Modern web teknolojileri üzerine proje tabanlı geliştirmeler. Frontend ve Backend entegrasyon süreçlerinde aktif rol alma."
     }

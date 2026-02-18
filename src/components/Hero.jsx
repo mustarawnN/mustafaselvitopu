@@ -22,7 +22,7 @@ const Hero = () => {
                     </h1>
 
                     <h2 style={styles.subtitle}>
-                        Bilgisayar Mühendisliği Öğrencisi & Web Developer
+                        Bilgisayar Mühendisliği Öğrencisi & Full Stack Developer
                     </h2>
 
                     <div style={styles.bioText}>
