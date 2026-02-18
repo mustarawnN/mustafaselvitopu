@@ -14,7 +14,7 @@ const Projects = () => {
     },
     {
       title: "Giyim E-Ticaret Sitesi",
-      desc: "JavaScript kullanılarak geliştirilen frontend e-ticaret projesi. Dinamik ürün listeleme, sepet yönetimi (ekleme/çıkarma) ve kategori filtreleme işlemleri...",
+      desc: "HTML, CSS ve JavaScript kullanılarak geliştirilen, modern bir giyim vitrinini dijital ortama taşıyan frontend projesidir. Kullanıcıların ürünleri detaylı inceleyebildiği, kategori bazlı filtreleme yapabildiği ve sepet süreçlerini (ekleme/çıkarma) dinamik olarak yönetebildiği fonksiyonel bir arayüz deneyimi sunar.",
       tags: ["JavaScript", "HTML5", "CSS3"],
       github: null, 
       live: null
