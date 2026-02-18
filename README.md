@@ -11,7 +11,7 @@ React ve Vite kullanılarak geliştirilmiş kişisel portfolyo web sitesidir.
 - React Icons
 
 ## Canlı Site
-
+https://mustafaselvitopu.vercel.app
 
 ## İletişim
 GitHub: https://github.com/mustarawnnn
