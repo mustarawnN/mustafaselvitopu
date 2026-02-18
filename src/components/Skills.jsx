@@ -16,6 +16,7 @@ const Skills = () => {
     
    
     { name: "Git & GitHub", color: "#F05032" },
+    { name: "Node.js", color: "#339933" },
    
   ];
 
