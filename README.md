@@ -8,7 +8,7 @@ React ve Vite kullanılarak geliştirilmiş kişisel portfolyo web sitesidir.
 - JavaScript
 - CSS
 - Framer Motion
-- React Icons
+
 
 ## Canlı Site
 https://mustafaselvitopu.vercel.app
