@@ -14,5 +14,5 @@ React ve Vite kullanılarak geliştirilmiş kişisel portfolyo web sitesidir.
 https://mustafaselvitopu.vercel.app
 
 ## İletişim
-GitHub: https://github.com/mustarawnnn
-LinkedIn: https://www.linkedin.com/in/mustafaselvitopu/
+- GitHub: https://github.com/mustarawnnn  
+- LinkedIn: https://www.linkedin.com/in/mustafaselvitopu/
